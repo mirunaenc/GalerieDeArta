@@ -1,0 +1,842 @@
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.AssemblyReference.cache
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfoInputs.cache
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfo.cs
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.CoreCompileInputs.cache
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cache
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\appsettings.Development.json
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\appsettings.json
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Tema1.exe
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Tema1.deps.json
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Tema1.runtimeconfig.json
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Tema1.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Tema1.pdb
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Azure.Core.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Azure.Identity.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Humanizer.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.CodeDom.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Core.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Data.dll
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Core.pdb
+D:\PPD\Tema1\Tema1\bin\Debug\net8.0\Data.pdb
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.build.json
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.development.json
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.Tema1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.build.Tema1.props
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tema1.props
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tema1.props
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\scopedcss\bundle\Tema1.styles.css
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.CopyComplete
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.dll
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\refint\Tema1.dll
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.pdb
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\Tema1.genruntimeconfig.cache
+D:\PPD\Tema1\Tema1\obj\Debug\net8.0\ref\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\appsettings.Development.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\appsettings.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.exe
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.deps.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.runtimeconfig.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Azure.Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Azure.Identity.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Humanizer.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.CodeDom.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfoInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.build.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.development.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.Tema1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.build.Tema1.props
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tema1.props
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tema1.props
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\scopedcss\bundle\Tema1.styles.css
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.Up2Date
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\refint\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.genruntimeconfig.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\ref\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Database.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\appsettings.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.exe
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.deps.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.runtimeconfig.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Core.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Database.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Core.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Database.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.Tema1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.build.Tema1.props
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tema1.props
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tema1.props
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\scopedcss\bundle\Tema1.styles.css
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.Up2Date
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\refint\Tema1.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.genruntimeconfig.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\ref\Tema1.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\appsettings.Development.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\appsettings.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.exe
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.deps.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.runtimeconfig.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Tema1.pdb
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Azure.Core.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Azure.Identity.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Humanizer.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.CodeDom.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Core.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Database.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Core.pdb
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\bin\Debug\net8.0\Database.pdb
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.AssemblyReference.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfoInputs.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfo.cs
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.CoreCompileInputs.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cs
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.Tema1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.build.Tema1.props
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tema1.props
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tema1.props
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\scopedcss\bundle\Tema1.styles.css
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.csproj.CopyComplete
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\refint\Tema1.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.pdb
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\Tema1.genruntimeconfig.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Tema1\obj\Debug\net8.0\ref\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\appsettings.Development.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\appsettings.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Tema1.exe
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Tema1.deps.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Tema1.runtimeconfig.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Tema1.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Azure.Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Azure.Identity.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Humanizer.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.CodeDom.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Database.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfoInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.sourcelink.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\staticwebassets.build.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\staticwebassets.development.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.Tema1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.build.Tema1.props
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tema1.props
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tema1.props
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\scopedcss\bundle\Tema1.styles.css
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.csproj.Up2Date
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\refint\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\Tema1.genruntimeconfig.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\obj\Debug\net8.0\ref\Tema1.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Tema1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\appsettings.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Tema1.exe
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Tema1.deps.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Tema1.runtimeconfig.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Tema1.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Tema1.pdb
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Database.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Core.pdb
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\bin\Debug\net8.0\Database.pdb
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.csproj.AssemblyReference.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfoInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.AssemblyInfo.cs
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.Tema1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.build.Tema1.props
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tema1.props
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tema1.props
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\scopedcss\bundle\Tema1.styles.css
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.csproj.Up2Date
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\refint\Tema1.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.pdb
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\Tema1.genruntimeconfig.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Tema1\obj\Debug\net8.0\ref\Tema1.dll

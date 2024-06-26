@@ -1,0 +1,113 @@
+D:\PPD\Tema1\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\PPD\Tema1\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PPD\Tema1\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\PPD\Tema1\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\PPD\Tema1\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\PPD\Tema1\Core\bin\Debug\net8.0\Core.deps.json
+D:\PPD\Tema1\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\PPD\Tema1\Core\bin\Debug\net8.0\Core.dll
+D:\PPD\Tema1\Core\bin\Debug\net8.0\Core.pdb
+D:\PPD\Tema1\Core\obj\Debug\net8.0\Core.dll
+D:\PPD\Tema1\Core\obj\Debug\net8.0\refint\Core.dll
+D:\PPD\Tema1\Core\obj\Debug\net8.0\Core.pdb
+D:\PPD\Tema1\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\PPD\Tema1\Core\obj\Debug\net8.0\ref\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.deps.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\refint\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Core\obj\Debug\net8.0\ref\Core.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.deps.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\bin\Debug\net8.0\Core.pdb
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.pdb
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Core\obj\Debug\net8.0\ref\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\bin\Debug\net8.0\Core.deps.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\bin\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\bin\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\refint\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Core\obj\Debug\net8.0\ref\Core.dll
+D:\ASP -final\Proiect\Core\bin\Debug\net8.0\Core.deps.json
+D:\ASP -final\Proiect\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\ASP -final\Proiect\Core\bin\Debug\net8.0\Core.dll
+D:\ASP -final\Proiect\Core\bin\Debug\net8.0\Core.pdb
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\Core.dll
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\refint\Core.dll
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\Core.pdb
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\ASP -final\Proiect\Core\obj\Debug\net8.0\ref\Core.dll
