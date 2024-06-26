@@ -1,0 +1,120 @@
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.deps.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\refint\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema Gabi\Tema1\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Core.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Core.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\Users\Gabi\Desktop\Tema Gabi\Tema1\Database\obj\Debug\net8.0\ref\Database.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.deps.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Database.pdb
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Core.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\bin\Debug\net8.0\Core.pdb
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.csproj.CopyComplete
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\refint\Database.dll
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.pdb
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+D:\Tema_Gabi\Tema Gabi\Tema1\Database\obj\Debug\net8.0\ref\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Database.deps.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Database.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Core.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\bin\Debug\net8.0\Core.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.sourcelink.json
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\refint\Database.dll
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.pdb
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+D:\FACULTATE\Anul II\Semestrul II\.NET\Tema\API\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\bin\Debug\net8.0\Database.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\bin\Debug\net8.0\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\bin\Debug\net8.0\Core.pdb
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\Database.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\Users\Miruna\OneDrive\Desktop\API-tema2\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\bin\Debug\net8.0\Database.dll
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\bin\Debug\net8.0\Core.dll
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\bin\Debug\net8.0\Core.pdb
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\Database.dll
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+C:\Users\Miruna\OneDrive\Desktop\Proiect\Database\obj\Debug\net8.0\ref\Database.dll
+D:\ASP -final\Proiect\Database\bin\Debug\net8.0\Database.deps.json
+D:\ASP -final\Proiect\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+D:\ASP -final\Proiect\Database\bin\Debug\net8.0\Database.dll
+D:\ASP -final\Proiect\Database\bin\Debug\net8.0\Database.pdb
+D:\ASP -final\Proiect\Database\bin\Debug\net8.0\Core.dll
+D:\ASP -final\Proiect\Database\bin\Debug\net8.0\Core.pdb
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\Database.csproj.CopyComplete
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\Database.dll
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\refint\Database.dll
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\Database.pdb
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+D:\ASP -final\Proiect\Database\obj\Debug\net8.0\ref\Database.dll
